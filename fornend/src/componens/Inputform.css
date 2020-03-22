@@ -1,0 +1,40 @@
+.inpt {
+    padding: 4px;
+    border: 1px solid #cecece;
+    border-radius: 2px;
+    width: 350px;
+}
+
+.btn {
+    background-color: rgb(27, 169, 235);
+    padding: 10px 50px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    
+}
+
+.btn:hover {
+    background-color: rgb(104, 231, 231);
+    color: black;
+}
+
+.container {
+    margin-left: 25px;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 50px 20px;
+    margin-top: 10px;
+    box-sizing: 10px;
+    width: 400px;
+}
+
+h2{
+    margin-left: 35%;
+    margin-top: 10px;
+}
